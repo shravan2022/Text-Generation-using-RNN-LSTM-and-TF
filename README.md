@@ -1,0 +1,2 @@
+# Text-Generation-using-RNN-LSTM-and-TF
+The code loads a text dataset, defines a model using the Keras API from TensorFlow, trains the model on the dataset, and generates new text using the trained model. The model consists of an embedding layer, a LSTM layer, and a dense layer, and is trained using the Adam optimizer and sparse categorical cross-entropy loss function. The code uses checkpoints to save the model weights during training and a function to generate new text using the trained model.
